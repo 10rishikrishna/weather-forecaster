@@ -1,6 +1,6 @@
 # weather_now
 
-A new Flutter project.
+Weather Now is a simple Flutter weather application that fetches real-time and forecast weather data using the OpenWeatherMap API.
 
 ## Getting Started
 
