@@ -1,0 +1,28 @@
+name: weather_now
+description: "A new Flutter project."
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+version: 1.0.0+1
+
+# Specify the Flutter SDK environment version
+environment:
+  sdk: ">=3.6.0 <4.0.0"  # Make sure the version constraint is compatible with Flutter 3.x
+
+dependencies:
+  flutter:
+    sdk: flutter  # The Flutter SDK is defined here
+  http: ^1.2.2 # Correctly listed as a separate dependency
+  cupertino_icons: ^1.0.8  # For iOS-style icons
+  intl: ^0.20.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter  # For testing Flutter apps
+  flutter_lints: ^5.0.0  # Linting for Flutter projects
+
+flutter:
+  uses-material-design: true
