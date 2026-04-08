@@ -3,7 +3,6 @@ Great! Now that you’ve shared your full `WeatherApp` implementation with API i
 ---
 
 
-
 # 🌤 WeatherNow - Flutter Weather App
 
 
