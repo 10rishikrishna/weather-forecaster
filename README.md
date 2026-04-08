@@ -10,6 +10,7 @@ Great! Now that you’ve shared your full `WeatherApp` implementation with API i
 [![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter\&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-2.19-blue?logo=dart\&logoColor=white)](https://dart.dev/)
 
+
 **WeatherNow** is a Flutter-based weather application that fetches real-time weather data using the **OpenWeatherMap API**. It displays current weather conditions, hourly forecasts, and additional weather metrics in a sleek, modern dark-themed UI.
 
 ---
